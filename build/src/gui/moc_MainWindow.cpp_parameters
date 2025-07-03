@@ -1,0 +1,15 @@
+-ID:/Qt/6.9.1/mingw_64/include/QtCore
+-ID:/Qt/6.9.1/mingw_64/include
+-ID:/Qt/6.9.1/mingw_64/include/QtGui
+-ID:/Qt/6.9.1/mingw_64/include
+-ID:/Qt/6.9.1/mingw_64/include/QtCore
+-ID:/Myself/25_sum_design2/src
+-ID:/Myself/25_sum_design2/src/gui
+-ID:/Myself/25_sum_design2/src/gui/widgets
+-ID:/Myself/mysql-connector-c++-9.3.0-winx64/include
+-ID:/Myself/25_sum_design2
+-ID:/Myself/25_sum_design2/build
+-DWIN32
+-o
+D:/Myself/25_sum_design2/build/src/gui/moc_MainWindow.cpp
+D:/Myself/25_sum_design2/src/gui/MainWindow.h

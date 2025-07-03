@@ -1,0 +1,50 @@
+[
+{
+  "directory": "D:/Myself/25_sum_design2/build",
+  "command": "D:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NEEDS_QMAIN -DQT_NETWORK_LIB -DQT_SQL_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/InOut.dir/includes_CXX.rsp -g -std=gnu++17 -Wa,-mbig-obj -o CMakeFiles\\InOut.dir\\InOut_autogen\\mocs_compilation.cpp.obj -c D:\\Myself\\25_sum_design2\\build\\InOut_autogen\\mocs_compilation.cpp",
+  "file": "D:/Myself/25_sum_design2/build/InOut_autogen/mocs_compilation.cpp",
+  "output": "CMakeFiles/InOut.dir/InOut_autogen/mocs_compilation.cpp.obj"
+},
+{
+  "directory": "D:/Myself/25_sum_design2/build",
+  "command": "D:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NEEDS_QMAIN -DQT_NETWORK_LIB -DQT_SQL_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/InOut.dir/includes_CXX.rsp -g -std=gnu++17 -Wa,-mbig-obj -o CMakeFiles\\InOut.dir\\src\\main.cpp.obj -c D:\\Myself\\25_sum_design2\\src\\main.cpp",
+  "file": "D:/Myself/25_sum_design2/src/main.cpp",
+  "output": "CMakeFiles/InOut.dir/src/main.cpp.obj"
+},
+{
+  "directory": "D:/Myself/25_sum_design2/build",
+  "command": "D:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NEEDS_QMAIN -DQT_NETWORK_LIB -DQT_SQL_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/InOut.dir/includes_CXX.rsp -g -std=gnu++17 -Wa,-mbig-obj -o CMakeFiles\\InOut.dir\\src\\gui\\MainWindow.cpp.obj -c D:\\Myself\\25_sum_design2\\src\\gui\\MainWindow.cpp",
+  "file": "D:/Myself/25_sum_design2/src/gui/MainWindow.cpp",
+  "output": "CMakeFiles/InOut.dir/src/gui/MainWindow.cpp.obj"
+},
+{
+  "directory": "D:/Myself/25_sum_design2/build",
+  "command": "D:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NEEDS_QMAIN -DQT_NETWORK_LIB -DQT_SQL_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/InOut.dir/includes_CXX.rsp -g -std=gnu++17 -Wa,-mbig-obj -o CMakeFiles\\InOut.dir\\src\\gui\\widgets\\InboundWidget.cpp.obj -c D:\\Myself\\25_sum_design2\\src\\gui\\widgets\\InboundWidget.cpp",
+  "file": "D:/Myself/25_sum_design2/src/gui/widgets/InboundWidget.cpp",
+  "output": "CMakeFiles/InOut.dir/src/gui/widgets/InboundWidget.cpp.obj"
+},
+{
+  "directory": "D:/Myself/25_sum_design2/build",
+  "command": "D:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NEEDS_QMAIN -DQT_NETWORK_LIB -DQT_SQL_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/InOut.dir/includes_CXX.rsp -g -std=gnu++17 -Wa,-mbig-obj -o CMakeFiles\\InOut.dir\\src\\core\\inbound\\InboundManager.cpp.obj -c D:\\Myself\\25_sum_design2\\src\\core\\inbound\\InboundManager.cpp",
+  "file": "D:/Myself/25_sum_design2/src/core/inbound/InboundManager.cpp",
+  "output": "CMakeFiles/InOut.dir/src/core/inbound/InboundManager.cpp.obj"
+},
+{
+  "directory": "D:/Myself/25_sum_design2/build",
+  "command": "D:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NEEDS_QMAIN -DQT_NETWORK_LIB -DQT_SQL_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/InOut.dir/includes_CXX.rsp -g -std=gnu++17 -Wa,-mbig-obj -o CMakeFiles\\InOut.dir\\src\\core\\inbound\\ShelfAllocator.cpp.obj -c D:\\Myself\\25_sum_design2\\src\\core\\inbound\\ShelfAllocator.cpp",
+  "file": "D:/Myself/25_sum_design2/src/core/inbound/ShelfAllocator.cpp",
+  "output": "CMakeFiles/InOut.dir/src/core/inbound/ShelfAllocator.cpp.obj"
+},
+{
+  "directory": "D:/Myself/25_sum_design2/build",
+  "command": "D:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NEEDS_QMAIN -DQT_NETWORK_LIB -DQT_SQL_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/InOut.dir/includes_CXX.rsp -g -std=gnu++17 -Wa,-mbig-obj -o CMakeFiles\\InOut.dir\\src\\database\\DatabaseManager.cpp.obj -c D:\\Myself\\25_sum_design2\\src\\database\\DatabaseManager.cpp",
+  "file": "D:/Myself/25_sum_design2/src/database/DatabaseManager.cpp",
+  "output": "CMakeFiles/InOut.dir/src/database/DatabaseManager.cpp.obj"
+},
+{
+  "directory": "D:/Myself/25_sum_design2/build",
+  "command": "D:\\Qt\\Tools\\mingw1310_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_MULTIMEDIA_LIB -DQT_NEEDS_QMAIN -DQT_NETWORK_LIB -DQT_SQL_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/InOut.dir/includes_CXX.rsp -g -std=gnu++17 -Wa,-mbig-obj -o CMakeFiles\\InOut.dir\\src\\gui\\moc_MainWindow.cpp.obj -c D:\\Myself\\25_sum_design2\\build\\src\\gui\\moc_MainWindow.cpp",
+  "file": "D:/Myself/25_sum_design2/build/src/gui/moc_MainWindow.cpp",
+  "output": "CMakeFiles/InOut.dir/src/gui/moc_MainWindow.cpp.obj"
+}
+]
