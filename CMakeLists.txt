@@ -12,9 +12,6 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 # Qt路径配置
 set(QT_DIR "D:/Qt/6.9.1/mingw_64")
 
-# set(Qt6Core_INCLUDE_DIRS "D:/Qt/6.9.1/mingw_64/include/QtCore")
-# set(Qt6Gui_INCLUDE_DIRS "D:/Qt/6.9.1/mingw_64/include/QtGui")
-
 message(STATUS "Using QT path: ${QT_DIR}")
 set(CMAKE_PREFIX_PATH ${QT_DIR})
 

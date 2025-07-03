@@ -79,8 +79,8 @@ clean: CMakeFiles/InOut_autogen.dir/clean
 # Target rules for target CMakeFiles/InOut.dir
 
 # All Build rule for target.
-CMakeFiles/InOut.dir/all: CMakeFiles/InOut_autogen_timestamp_deps.dir/all
 CMakeFiles/InOut.dir/all: CMakeFiles/InOut_autogen.dir/all
+CMakeFiles/InOut.dir/all: CMakeFiles/InOut_autogen_timestamp_deps.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\InOut.dir\build.make CMakeFiles/InOut.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\InOut.dir\build.make CMakeFiles/InOut.dir/build
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=D:\Myself\25_sum_design2\build\CMakeFiles --progress-num=1,2,3,4,5,6,7,8,9,10,11,12,13 "Built target InOut"

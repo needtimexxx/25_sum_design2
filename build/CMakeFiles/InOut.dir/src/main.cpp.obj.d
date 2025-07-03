@@ -406,4 +406,11 @@ CMakeFiles/InOut.dir/src/main.cpp.obj: \
  D:/Qt/6.9.1/mingw_64/include/QtCore/qcoreapplication_platform.h \
  D:/Qt/6.9.1/mingw_64/include/QtGui/qguiapplication.h \
  D:/Qt/6.9.1/mingw_64/include/QtGui/qinputmethod.h \
- D:/Qt/6.9.1/mingw_64/include/QtGui/qguiapplication_platform.h
+ D:/Qt/6.9.1/mingw_64/include/QtGui/qguiapplication_platform.h \
+ D:\Myself\25_sum_design2\src\database/DatabaseManager.h \
+ D:/Qt/6.9.1/mingw_64/include/QtSql/QSqlDatabase \
+ D:/Qt/6.9.1/mingw_64/include/QtSql/qsqldatabase.h \
+ D:/Qt/6.9.1/mingw_64/include/QtSql/qtsqlglobal.h \
+ D:/Qt/6.9.1/mingw_64/include/QtSql/qtsql-config.h \
+ D:/Qt/6.9.1/mingw_64/include/QtSql/qtsqlexports.h \
+ D:/Qt/6.9.1/mingw_64/include/QtCore/qmetaobject.h

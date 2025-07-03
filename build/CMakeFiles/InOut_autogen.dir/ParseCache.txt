@@ -382,11 +382,11 @@ D:/Myself/25_sum_design2/src/gui/widgets/InboundWidget.h
  mdp:D:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/vadefs.h
  mdp:D:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/wchar.h
 D:/Myself/25_sum_design2/src/database/DatabaseManager.h
-D:/Myself/25_sum_design2/src/core/inbound/InboundManager.cpp
 D:/Myself/25_sum_design2/src/gui/MainWindow.h
+D:/Myself/25_sum_design2/src/core/inbound/InboundManager.cpp
+D:/Myself/25_sum_design2/src/core/inbound/ShelfAllocator.cpp
 D:/Myself/25_sum_design2/src/gui/widgets/InboundWidget.cpp
  uic:ui_InboundWidget.h
-D:/Myself/25_sum_design2/src/core/inbound/ShelfAllocator.cpp
 D:/Myself/25_sum_design2/src/database/DatabaseManager.cpp
 D:/Myself/25_sum_design2/src/gui/MainWindow.cpp
  uic:ui_MainWindow.h
